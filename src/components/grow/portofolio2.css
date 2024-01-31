@@ -1,0 +1,669 @@
+.a5 {
+    margin-top: 5.4vw;
+    margin-left: 45vw;
+}
+
+.tech {
+    margin-left: -47.2vw;
+    margin-bottom: 6vw;
+    margin-top: 14vw;
+    color: white;
+    letter-spacing: .02em;
+    font-size: 1.5vw;
+    font-family: "Calibri";
+}
+
+.b5 {
+    height: 26vw;
+    width: 39vw;
+    margin-left: -47.1vw;
+    margin-top: -5vw;
+    background: linear-gradient(20deg, rgb(1, 17, 40), rgb(4, 1, 8));
+    border: .15em solid rgb(7, 161, 238);
+    border-radius: .5em;
+    transition: all 2s ease;
+}
+
+.c5 {
+    height: 52vw;
+    width: 103vw;
+    margin-top: 0vw;
+    top: 0%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    background-attachment: fixed;
+    left: 0%;
+    background: linear-gradient(20deg, rgb(1, 17, 40), rgb(4, 1, 8));
+
+}
+
+.b5:hover {
+    background: linear-gradient(20deg, rgb(7, 7, 7), rgb(39, 39, 40));
+    ;
+    animation: b5 3s ease;
+}
+
+@keyframes b5 {
+    0% {
+        opacity: 0.5;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.d5 {
+    color: #fcf9f9;
+    font-size: 1.3vw;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: -5.6vw 3.5vw 0vw 3vw;
+}
+
+.pro {
+    margin-top: -4vw;
+    margin-left: 7%;
+    height: 1.2vw;
+    width: 33vw;
+    display: flex;
+}
+
+progress::-webkit-progress-bar {
+    border: 2px solid rgb(7, 161, 238);
+    padding-top: .3%;
+    padding-bottom: .3%;
+    border-radius: .2em;
+    background: linear-gradient(20deg, rgb(1, 17, 40), rgb(4, 1, 8));
+
+}
+
+progress::-webkit-progress-value {
+    background-color: rgb(7, 161, 238);
+    border-radius: .2em;
+    border: 3px solid rgb(7, 161, 238);
+}
+
+progress::-moz-progress-bar {
+    background-color: #4c81af;
+    border: 3px solid rgb(7, 161, 238);
+    border-radius: 8px;
+}
+
+.d50 {
+    color: #fcf9f9;
+    font-size: 1.3vw;
+    font-family: Arial, Helvetica, sans-serif;
+    align-content: end;
+    margin: -5.6vw 3.5vw 0vw 4.9vw;
+}
+
+.f5 {
+    transition: all 3s ease;
+    padding-top: 5vw;
+    height: 1.3vw;
+}
+
+.f5:hover {
+    border: .2em solid rgb(7, 161, 238);
+    border-radius: .5em;
+    transform: scale(1.1);
+    background: linear-gradient(20deg, rgb(7, 7, 7), rgb(39, 39, 40));
+    ;
+    transition: all 3s ease;
+    background-color: transparent;
+}
+
+.j5 {
+    margin-top: 6vw;
+    margin-left: 43vw;
+}
+
+.m5 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 40vw;
+    width: 36.4vw;
+    background-color: transparent;
+    border-radius: 2%;
+    margin-left: 55.9%;
+    padding-top: 4%;
+    margin-top: -3%;
+
+}
+
+.n5 {
+    margin-top: -5%;
+    margin-top: 1%;
+}
+
+.n51 {
+    margin-top: 3%;
+}
+
+input {
+    background-color: transparent;
+    border: .4vw solid rgb(7, 161, 238);
+    transition: all 2s ease;
+    padding: 2%;
+    margin-left: .5vw;
+    border-radius: .5em;
+    width: 42.2%;
+    color: rgb(7, 161, 238);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1vw;
+}
+
+input:hover {
+    background: rgb(7, 161, 238);
+    background: rgb(93, 93, 94);
+    transition: all 3s ease;
+}
+
+::placeholder {
+    color: #fcf9f9;
+    font-weight: bold;
+    transition: all 2s ease;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+textarea {
+    background-color: transparent;
+    border: .4vw solid rgb(7, 161, 238);
+    height: 15vw;
+    transition: all 2s ease;
+    color: rgb(7, 161, 238);
+    padding: 1%;
+    width: 34.3vw;
+    margin: 2.5% 1.5% 0% 1.5%;
+    font-size: 1.4vw;
+    border-radius: .5em;
+}
+
+textarea:hover {
+    background: rgb(93, 93, 94);
+    transition: all 3s ease;
+}
+
+.i4 {
+    margin-top: 1vw;
+    margin-left: 39.5%;
+    background-color: rgb(7, 161, 238);
+    height: 2.2vw;
+    width: 6.5vw;
+    border: 0px solid black;
+    border-radius: .5em;
+    color: black;
+    font-size: .8vw;
+    font-weight: bold;
+    text-align: center;
+    transition: all 2s ease;
+}
+
+textarea:hover {
+    background: rgb(128, 128, 128);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    filter: drop-shadow(rgb(7, 161, 238) .5vw 1vw 5vw);
+    transition: all 3s ease;
+    opacity: .6;
+}
+
+input:hover {
+    background: rgb(128, 128, 128);
+    color: rgb(12, 12, 12);
+    cursor: pointer;
+    filter: drop-shadow(rgb(7, 161, 238) .5vw 1vw 5vw);
+    transition: all 3s ease;
+    opacity: .9;
+}
+
+
+
+@media (max-width:600px) {
+    .a5 {
+        margin-top: 10vw;
+        margin-left: -1vw;
+    }
+
+    .tech {
+        margin-left: 19.2vw;
+        margin-bottom: 18vw;
+        margin-top: 2vw;
+        color: white;
+        letter-spacing: .02em;
+        font-size: 4vw;
+        font-family: "Calibri";
+    }
+
+    .b5 {
+        height: 68vw;
+        margin-bottom: 6%;
+        width: 65vw;
+        margin-bottom: 16%;
+        margin-left: 19vw;
+        margin-top: -14vw;
+        background: linear-gradient(20deg, rgb(1, 17, 40), rgb(4, 1, 8));
+        border: .15em solid rgb(7, 161, 238);
+        border-radius: .5em;
+        transition: all 2s ease;
+    }
+
+    .c5 {
+        position: relative;
+        height: 205vw;
+        width: 103vw;
+        margin-top: 40vh;
+        top: 0%;
+        display: flex;
+        flex-direction: column;  
+        left: 0%;
+        background: linear-gradient(20deg, rgb(24, 24, 24), rgb(4, 1, 8));
+
+    }
+
+    .b5:hover {
+        background: linear-gradient(20deg, rgb(7, 7, 7), rgb(6, 6, 255));
+        ;
+        animation: b5 3s ease;
+        
+    }
+
+    @keyframes b5 {
+        0% {
+            opacity: 0.5;
+
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+    .d5 {
+        color: #fcf9f9;
+        font-size: 2.5vw;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0% 7% 9% 7%;
+    }
+
+    .pro {
+        margin-top: -3vh;
+        margin-left: 7%;
+        height: 2.3vw;
+        width: 57vw;
+        display: flex;
+        box-shadow: 0px 0px 2px rgb(7, 161, 238),
+        0px 0px 4px rgb(7, 161, 238),
+        0px 0px 6px rgb(7, 161, 238),
+        0px 0px 20px rgb(7, 161, 238);
+    }
+
+    progress::-webkit-progress-bar {
+        border: 2px solid rgb(7, 161, 238);
+        padding: .3%;
+        border-radius: .2em;
+        background: linear-gradient(20deg, rgb(1, 17, 40), rgb(4, 1, 8));
+
+    }
+
+    progress::-webkit-progress-value {
+        background-color: rgb(7, 161, 238);
+        border-radius: .2em;
+        border: 3px solid rgb(7, 161, 238);
+    }
+
+    progress::-moz-progress-bar {
+        background-color: #080473;
+        border-radius: 8px;
+    }
+
+    .d50 {
+        color: #fcf9f9;
+        font-size: 2.5vw;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0vw 3vw 1vw 0vw;
+    }
+
+    .f5 {
+        transition: all 3s ease;
+        padding-top: 1vw;
+        height: 15.9vw;
+        background-color: black;
+    }
+
+
+    .j5 {
+        margin-top: 15vw;
+        margin-left: 37vw;
+    }
+
+    .m5 {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        height: 50vw;
+        width: 70vw;
+        background-color: transparent;
+        border-radius: 2%;
+        margin-left: 32.4%;
+        padding-top: 4%;
+        margin-top: 5%;
+
+    }
+
+    .n5 {
+        margin-top: -5%;
+        margin-top: 1%;
+    }
+
+    .n51 {
+        margin-top: 3%;
+    }
+
+    .f5:hover {
+        border: .2em solid rgb(7, 161, 238);
+        border-bottom: .2em solid transparent;
+        border-radius: .5em;
+        transform: scale(1.1);
+        background: linear-gradient(20deg, rgb(7, 7, 7), rgb(39, 39, 40));
+        ;
+        transition: all 3s ease;
+        background-color: transparent;
+    }
+
+    input {
+        background-color: transparent;
+        border: .2em solid rgb(7, 161, 238);
+        transition: all 2s ease;
+        padding: 2%;
+        margin-left: .5vw;
+        border-radius: .5em;
+        width: 25.8vw;
+        color: rgb(7, 161, 238);
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 2vw;
+    }
+
+    input:hover {
+        background: rgb(128, 128, 128);
+        color: white;
+        cursor: pointer;
+        transition: all 3s ease;
+        opacity: .9;
+        filter: drop-shadow(18px 20px 52px rgb(10, 59, 224));
+
+    }
+
+    ::placeholder {
+        color: #fcf9f9;
+        font-weight: bold;
+        transition: all 2s ease;
+        font-size: 2vw;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+    textarea {
+        background-color: transparent;
+        border: .2em solid rgb(7, 161, 238);
+        height: 30vw;
+        transition: all 2s ease;
+        color: rgb(7, 161, 238);
+        padding: 1%;
+        width: 56.6vw;
+        margin: 2.5% 1.5% 0% 1.1%;
+        font-size: 2vw;
+        border-radius: .5em;
+        filter: drop-shadow(4px 4px 5pc rgb(10, 59, 224));
+    }
+
+    textarea:hover {
+        background: rgb(128, 128, 128);
+        color: white;
+        cursor: pointer;
+        transition: all 3s ease;
+        opacity: .6;
+    }
+
+    .i4 {
+        margin-top: 4vw;
+        margin-left: 23vw;
+        background-color: rgb(11, 127, 185);
+        height: 5.5vw;
+        width: 15.6vw;
+        border: 0px solid black;
+        border-radius: .9vw;
+        color: black;
+        font-size: .59em;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 2%;
+        transition: all 2s ease;
+    }
+}
+/*
+
+@media (max-width:768px) and (orientation:portrait) {
+    .a5 {
+        margin-top: 10vw;
+        margin-left: 42vw;
+        
+        display: flex;
+        height: 45vw;
+    }
+
+    .tech {
+        margin-left: 19.2vw;
+        margin-bottom: 18vw;
+        margin-top: 2vw;
+        color: white;
+        letter-spacing: .02em;
+        font-size: 4vw;
+        font-family: "Calibri";
+    }
+
+    .b5 {
+        height: 70vw;
+        margin-bottom: 6%;
+        width: 65vw;
+        margin-bottom: 16%;
+        margin-left: 19vw;
+        margin-top: -14vw;
+        background: linear-gradient(20deg, rgb(1, 17, 40), rgb(4, 1, 8));
+        border: .15em solid rgb(7, 161, 238);
+        border-radius: .5em;
+        transition: all 2s ease;
+    }
+
+    .c5 {
+        height: 205vw;
+        width: 103vw;
+        margin-top: 40vh;
+        top: 0%;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        background-attachment: fixed;
+        left: 0%;
+        background: linear-gradient(20deg, rgb(24, 24, 24), rgb(4, 1, 8));
+
+    }
+
+    .b5:hover {
+        background: linear-gradient(20deg, rgb(7, 7, 7), rgb(6, 6, 255));
+        ;
+        animation: b5 3s ease;
+    }
+
+    @keyframes b5 {
+        0% {
+            opacity: 0.5;
+
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+    .d5 {
+        color: #fcf9f9;
+        font-size: 3vw;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0% 7% 9% 7%;
+    }
+
+    .pro {
+        margin-top: -3vh;
+        margin-left: 7%;
+        height: 2.3vh;
+        width: 57vw;
+        display: flex;
+    }
+
+    progress::-webkit-progress-bar {
+        border: 2px solid rgb(7, 161, 238);
+        padding: .9%;
+        border-radius: .2em;
+        background: linear-gradient(20deg, rgb(1, 17, 40), rgb(4, 1, 8));
+
+    }
+
+    progress::-webkit-progress-value {
+        background-color: rgb(7, 161, 238);
+        border-radius: .2em;
+        border: 3px solid rgb(7, 161, 238);
+    }
+
+    progress::-moz-progress-bar {
+        background-color: #080473;
+        border-radius: 8px;
+    }
+
+    .d50 {
+        color: #fcf9f9;
+        font-size: 3vw;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0vw 3vw 1vw 0vw;
+    }
+
+    .f5 {
+        transition: all 3s ease;
+        padding-top: 1vw;
+        height: 15.9vw;
+        background-color: black;
+    }
+
+
+    .j5 {
+        margin-top: 15vw;
+        margin-left: 37vw;
+    }
+
+    .m5 {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        height: 50vw;
+        width: 70vw;
+        background-color: transparent;
+        border-radius: 2%;
+        margin-left: 32.4%;
+        padding-top: 4%;
+        margin-top: 5%;
+
+    }
+
+    .n5 {
+        margin-top: -5%;
+        margin-top: 1%;
+    }
+
+    .n51 {
+        margin-top: 3%;
+    }
+
+    .f5:hover {
+        border: .2em solid rgb(7, 161, 238);
+        border-radius: .5em;
+        border-top: .2em solid transparent;
+        transform: scale(1.1);
+        background: linear-gradient(20deg, rgb(7, 7, 7), rgb(39, 39, 40));
+        ;
+        transition: all 3s ease;
+        background-color: transparent;
+    }
+
+    input {
+        background-color: transparent;
+        border: .2em solid rgb(7, 161, 238);
+        transition: all 2s ease;
+        padding: 2%;
+        margin-left: .5vw;
+        border-radius: .5em;
+        width: 25.8vw;
+        color: rgb(7, 161, 238);
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 2vw;
+    }
+
+    input:hover {
+        background: rgb(128, 128, 128);
+        color: white;
+        cursor: pointer;
+        transition: all 3s ease;
+        opacity: .9;
+        filter: drop-shadow(18px 20px 52px rgb(10, 59, 224));
+
+    }
+
+    ::placeholder {
+        color: #fcf9f9;
+        font-weight: bold;
+        transition: all 2s ease;
+        font-size: 2vw;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+    textarea {
+        background-color: transparent;
+        border: .2em solid rgb(7, 161, 238);
+        height: 30vw;
+        transition: all 2s ease;
+        color: rgb(7, 161, 238);
+        padding: 1%;
+        width: 56.6vw;
+        margin: 2.5% 1.5% 0% 1.1%;
+        font-size: 2vw;
+        border-radius: .5em;
+        filter: drop-shadow(4px 4px 5pc rgb(10, 59, 224));
+    }
+
+    textarea:hover {
+        background: rgb(128, 128, 128);
+        color: white;
+        cursor: pointer;
+        transition: all 3s ease;
+        opacity: .6;
+    }
+
+    .i4 {
+        margin-top: 4%;
+        margin-left: 23vw;
+        background-color: rgb(11, 127, 185);
+        height: 5.5vw;
+        width: 15.6vw;
+        border: 0px solid black;
+        border-radius: .9vw;
+        color: black;
+        font-size: .59em;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 2%;
+        transition: all 2s ease;
+    }
+}*/

@@ -4,7 +4,7 @@ import imageminMozjpeg from "imagemin-mozjpeg";
 (async () => {
   try {
     const files = await imagemin(["./img/*.{jpeg,jpg,png}"], {
-      destination: "./src/components/grow",
+      destination: "./build/images",
       plugins: [
         imageminMozjpeg({ quality: 80 }) // Set JPEG quality to 80%
       ]

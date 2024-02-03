@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.700acc84.css",
+    "main.js": "/portfolio-app/static/js/main.c4116307.js",
+    "static/media/pro2.png": "/portfolio-app/static/media/pro2.b3a9ee527a7678949ec1.png",
+    "static/media/fa-solid-900.ttf": "/portfolio-app/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "/portfolio-app/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/portfolio-app/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/portfolio-app/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/portfolio-app/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/pro.jpg": "/portfolio-app/static/media/pro.b7362d94f92901da3722.jpg",
+    "static/media/fa-regular-400.woff2": "/portfolio-app/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/star6.jpg": "/portfolio-app/static/media/star6.d96e490456f21f67b256.jpg",
+    "static/media/star7.jpg": "/portfolio-app/static/media/star7.e8614d7f9f2ed5c1f96a.jpg",
+    "static/media/star4.jpg": "/portfolio-app/static/media/star4.0a479b2de50a6fe9a5bb.jpg",
+    "static/media/star1.jpg": "/portfolio-app/static/media/star1.7de218ae69862cf7074f.jpg",
+    "static/media/star3.jpg": "/portfolio-app/static/media/star3.434f9e60484ebe056f77.jpg",
+    "static/media/star2.jpg": "/portfolio-app/static/media/star2.b5d8737694403cc22a5f.jpg",
+    "static/media/fa-v4compatibility.ttf": "/portfolio-app/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/star5.jpg": "/portfolio-app/static/media/star5.736f94399ffc71ffa178.jpg",
+    "static/media/fa-v4compatibility.woff2": "/portfolio-app/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/portfolio-app/index.html",
+    "main.700acc84.css.map": "/portfolio-app/static/css/main.700acc84.css.map",
+    "main.c4116307.js.map": "/portfolio-app/static/js/main.c4116307.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.700acc84.css",
+    "static/js/main.c4116307.js"
+  ]
+}

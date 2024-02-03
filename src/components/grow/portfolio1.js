@@ -26,7 +26,7 @@ function DisplayComponent() {
     }
     return (
         <>
-            <button class="m0" onClick={handleClick} data-aos="fade-down"></button>
+            <button className='m0' onClick={handleClick} data-aos="fade-down"><i className="fa fa-caret-down" aria-hidden="true"></i></button>
             <div style={{ display: 'flex', flexDirection: 'row', height: '100vh' }}>
                 <div className='n0' data-aos="fade-right" style={{ backgroundColor: backgroundColor, border: border, opacity: Opacity }}><p className='p01'><mark style={{ backgroundColor: ' rgb(7, 161, 238)' }}>{displayText}</mark></p>
                     <p className='p012'>{displayText2}</p>

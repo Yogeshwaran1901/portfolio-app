@@ -52,15 +52,7 @@ function Home() {
           <Tab />
         </header>
         <div className='hid2'>
-          <div className='hid'>
-            <div className='ai0'>
-              <div className='ai1'>
-                <div className='ai2'>z
-                  <div className='ai3'>
-                    <div className='ai4'>
-                      <div className='ai5'>
-                        <div className='ai6'>
-                          <div className='hid1'>
+          
                             <div style={{ paddingTop: '3%', display: 'flex', alignItems: 'start', flexDirection: 'column' }}>
                               <div id='home' data-aos="fade-left"> <Portfolio /></div>
                               <div id='about' data-aos="fade-right"> <Portfolio1 /></div>
@@ -71,15 +63,7 @@ function Home() {
                           </div>
                           </div>
                         </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+                    
     </>
   )
 }
